@@ -20,8 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mernstackdeveloper01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mernstackdeveloper01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdulmotaleb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulmotaleb" height="30" width="40" /></a>
-<a href="https://fb.com/ovi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ovi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdul-motaleb-902943256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulmotaleb" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100017044084591" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ovi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
